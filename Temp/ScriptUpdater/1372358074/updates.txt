@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1372358074\916984883_SceneDragAndDrop.cs => Library/PackageCache/com.unity.2d.spriteshape@5.2.0/Editor/SceneDragAndDrop.cs
